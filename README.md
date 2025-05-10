@@ -5,7 +5,9 @@ Library that makes words prettier and better to loot at.
 ```ts
 import "./wordify";
 
-console.log("helloWorld".toPretty())
+console.log("helloWorld".toPretty());
 ```
 
+```ts
+console.log("USER LOGIN LOG".toPascalCase());
 # 

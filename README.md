@@ -15,7 +15,7 @@ console.log("USER LOGIN LOG".toCamelCase());
 // Pascal case
 console.log("USER LOGIN LOG".toPascalCase());
 
-// Pascal case
+// Kebab case
 console.log("USER LOGIN LOG".toKebabCase());
 
 // Snake case
